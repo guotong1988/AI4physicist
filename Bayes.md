@@ -3,9 +3,7 @@ A|B 用编程语言表示为 `A = model_image_to_text(B)`
 B|A 用编程语言表示为 `B = model_text_to_image(A)`
 
 则贝叶斯公式
-$$
-P(A|B) = \frac{P(B|A)P(A)}{P(B)}
-$$
+$$ P(A|B) = \frac{P(B|A)P(A)}{P(B)} $$
 
 P(model_image_to_text(B)) = P(model_text_to_image(A)) * P(A) / P(B)
 
