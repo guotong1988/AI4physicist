@@ -11,3 +11,7 @@ def function_P(generated_random_int_1to100):
 P(A) 用中文解释为：
 
 事件A发生的概率
+
+## 目录
+
+[贝叶斯](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Bayes.md)
