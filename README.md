@@ -12,8 +12,8 @@ P(A) 用中文解释为：
 
 事件A发生的概率
 
-[基础](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Basic.md)
-
 ## 目录
+
+[基础](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Basic.md)
 
 [贝叶斯](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Bayes.md)
