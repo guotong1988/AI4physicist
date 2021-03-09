@@ -15,4 +15,3 @@ def function_P(generated_random_int_1to100__B):
 
 则 P(A|B) = P(A ∩ B) / P(B) 求得值为 0.36 / 0.6 = 0.6
 
-P(A|B) 只能根据公式 P(A|B) = P(A ∩ B) / P(B) 求得和理解
