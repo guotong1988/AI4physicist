@@ -12,6 +12,8 @@ P(A) 用中文解释为：
 
 ## 目录
 
-[基础](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Basic0.md)
+[概率论基础0](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Basic0.md)
+
+[概率论基础1](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Basic1.md)
 
 [贝叶斯](https://github.com/guotong1988/Math_Is_A_Program_Language/blob/main/Bayes.md)
