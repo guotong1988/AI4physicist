@@ -1,17 +1,9 @@
 
-P(A ∩ B) 用编程语言表示为
-```python
-def function_P(generated_random_int_1to100__A, generated_random_int_1to100__B):
-    if generated_random_int_1to100__A > 40 and generated_random_int_1to100__B > 40: #两个事件都发生
-        return 0.36
-```
+P(A|B) 用编程语言表示为` A = mnist_classify_model(B)`
 
-P(B) 用编程语言表示为
-```python
-def function_P(generated_random_int_1to100__B):
-    if generated_random_int_1to100__B > 40: #事件发生
-        return 0.6   
-```
+如果当 `B = 1` 发生时 `A = 1` 发生的概率为 90%
 
-则 P(A|B) = P(A ∩ B) / P(B) 求得值为 0.36 / 0.6 = 0.6
+B 一共有5个不同的数据{1,2,3,4,5}，每个概率是20%，
+
+则 P(A = 1, B = 1) = P(A = 1|B = 1) * P(B = 1) = 0.2 * 0.9 = 0.18 
 
