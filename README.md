@@ -1,1 +1,1 @@
-## physicist
+## AI4physicist
